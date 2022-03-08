@@ -18,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /statuspage
 
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://aument.io/wp-content/uploads/2022/03/Aument150.jpg
   name: Upptime
   introTitle: "The Aument status page monitoring all the aument services and some strategic partner services as Shopify using Uptime and powerade by GitHub."
   introMessage: TThis is page call to check the services (pages) status every 5 minutes. 
