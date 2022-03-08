@@ -7,10 +7,10 @@ sites:
     url: https://aument.io/
   - name: Aument App
     url: https://platform.aument.io
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Shopify
+    url: https://www.shopify.com/
+  - name: Shopify Accounts
+    url: https://accounts.shopify.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,13 +20,15 @@ status-website:
 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "The Aument status page monitoring all the aument services and some strategic partner services as Shopify using Uptime and powerade by GitHub."
+  introMessage: TThis is page call to check the services (pages) status every 5 minutes. 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: aument
+      href: https://aument.io/
+    - title: aument for shopify 
+      href: https://www.shopify.com/admin/admin/auth/login?redirect=%2Fadmin%2Foauth%2Fredirect_from_app_store%3Fapp_store_s%3D5bffc472-8cb0-4de1-b655-c198b0530001%26app_store_y%3D1a9f36eb-65d4-448f-b230-74ce790cde20%26client_id%3Db587b05986f9f20acd2ff7663beef4d9%26signature%3DeyJleHBpcmVzX2F0IjoxNjQ1NDc0NjY0LCJwZXJtYW5lbnRfZG9tYWluIjoic3RvcmV0ZXN0aW5nNDMwLm15c2hvcGlmeS5jb20iLCJjbGllbnRfaWQiOiJiNTg3YjA1OTg2ZjlmMjBhY2QyZmY3NjYzYmVlZjRkOSIsImFwcF9zdG9yZV9zIjoiNWJmZmM0NzItOGNiMC00ZGUxLWI2NTUtYzE5OGIwNTMwMDAxIiwiYXBwX3N0b3JlX3kiOiIxYTlmMzZlYi02NWQ0LTQ0OGYtYjIzMC03NGNlNzkwY2RlMjAifQ%253D%253D--21aacfbb4ccde834354474a63ff46684a982860b&utm_source=aument&utm_medium=referral
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
