@@ -4,18 +4,20 @@
     "url": "https://aument.io/",
     "icon": "https://favicons.githubusercontent.com/aument.io",
     "slug": "aument-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 916,
-    "timeDay": 471,
-    "timeWeek": 1059,
+    "timeDay": 694,
+    "timeWeek": 1041,
     "timeMonth": 916,
     "timeYear": 916,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   },
   {
     "name": "Aument App",
