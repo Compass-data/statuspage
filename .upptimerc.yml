@@ -14,9 +14,9 @@ sites:
   - name: Canario
   - url: https://canario.shop/
   - name: Canario
-  - url: https://canario.shop/
+  - url: https://canario.shop
   - name: RT
-  - url: https://rtstactical.com/
+  - url: https://rtstactical.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
