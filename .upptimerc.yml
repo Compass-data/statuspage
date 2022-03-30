@@ -11,6 +11,12 @@ sites:
     url: https://www.shopify.com/
   - name: Shopify Accounts
     url: https://accounts.shopify.com/
+  - name: Canario
+  - url: https://canario.shop/
+  - name: Canario
+  - url: https://canario.shop/
+  - name: RT
+  - url: https://rtstactical.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
