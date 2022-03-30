@@ -13,8 +13,6 @@ sites:
     url: https://accounts.shopify.com/
   - name: Canario
   - url: https://canario.shop/
-  - name: Canario
-  - url: https://canario.shop
   - name: RT
   - url: https://rtstactical.com
 
