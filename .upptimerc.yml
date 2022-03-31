@@ -9,8 +9,8 @@ sites:
     url: https://platform.aument.io
   - name: Shopify Accounts
     url: https://accounts.shopify.com/
-  - name: Canario
-  - url: https://canario.shop/
+  - name: rt
+  - url: https://rtstactical.com/
 
 
 status-website:
