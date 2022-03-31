@@ -7,8 +7,6 @@ sites:
     url: https://aument.io/
   - name: Aument App
     url: https://platform.aument.io
-  - name: Shopify
-    url: https://www.shopify.com/
   - name: Shopify Accounts
     url: https://accounts.shopify.com/
   - name: Canario
