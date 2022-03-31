@@ -7,6 +7,8 @@ sites:
     url: https://aument.io/
   - name: Aument App
     url: https://platform.aument.io
+  - name: Canario
+    url: https://canario.shop    
   - name: rt
     url:  https://rtstactical.com
   - name: Shopify Accounts
