@@ -11,6 +11,8 @@ sites:
     url: https://www.shopify.com/
   - name: Shopify Accounts
     url: https://accounts.shopify.com/
+  - name: Canario
+  - url: https://canario.shop/
 
 
 status-website:
