@@ -21,7 +21,7 @@ status-website:
   baseUrl: /statuspage
 
   logoUrl: 
-  name: -
+  name: statuspage
   introTitle: ""
   introMessage: ""
   navbar:
