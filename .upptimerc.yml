@@ -20,13 +20,13 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /statuspage
 
-  logoUrl: https://aument.io/wp-content/uploads/2022/03/Aument150.jpg
-  name: Aument-Status-page
+  logoUrl: 
+  name:
   introTitle: ""
   introMessage: ""
   navbar:
-    - title: Status
-      href: /
+    - title: 
+      href: 
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
