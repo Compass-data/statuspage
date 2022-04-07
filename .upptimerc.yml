@@ -21,12 +21,12 @@ status-website:
   baseUrl: /statuspage
 
   logoUrl: 
-  name:
+  name: -
   introTitle: ""
   introMessage: ""
   navbar:
-    - title: 
-      href: 
+    - title: -
+      href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
