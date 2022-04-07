@@ -22,8 +22,8 @@ status-website:
 
   logoUrl: https://aument.io/wp-content/uploads/2022/03/Aument150.jpg
   name: Aument-Status-page
-  introTitle: "Is Shopify or Aument Down?"
-  introMessage: "We are monitoring all the Aument services and some strategic partner as Shopify, using a data base that checks the page status every 5 minutes, called Uptime, and it's powerade 100% by GitHub."
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: /
