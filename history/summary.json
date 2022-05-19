@@ -4,19 +4,19 @@
     "url": "https://www.shopify.com/",
     "icon": "https://favicons.githubusercontent.com/www.shopify.com",
     "slug": "shopify",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 207,
-    "timeWeek": 228,
-    "timeMonth": 330,
-    "timeYear": 352,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 349,
+    "timeDay": 174,
+    "timeWeek": 218,
+    "timeMonth": 324,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2022-05-19": 0
+      "2022-05-19": 7
     }
   },
   {
