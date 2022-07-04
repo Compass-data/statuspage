@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 312,
-    "timeDay": 261,
-    "timeWeek": 280,
-    "timeMonth": 266,
+    "timeDay": 314,
+    "timeWeek": 291,
+    "timeMonth": 269,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2022-06-21": 16
@@ -30,66 +30,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 398,
-    "timeDay": 248,
-    "timeWeek": 236,
+    "time": 397,
+    "timeDay": 280,
+    "timeWeek": 246,
     "timeMonth": 306,
-    "timeYear": 398,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2022-06-21": 16
-    }
-  },
-  {
-    "name": "Aument.io",
-    "url": "https://aument.io/",
-    "icon": "https://favicons.githubusercontent.com/aument.io",
-    "slug": "aument-io",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.73%",
-    "time": 1035,
-    "timeDay": 106,
-    "timeWeek": 165,
-    "timeMonth": 960,
-    "timeYear": 1035,
-    "dailyMinutesDown": {
-      "2022-06-30": 114,
-      "2022-06-29": 25,
-      "2022-06-21": 28,
-      "2022-06-16": 33,
-      "2022-06-07": 42,
-      "2022-06-02": 83,
-      "2022-06-01": 15,
-      "2022-04-24": 37,
-      "2022-04-17": 50,
-      "2022-03-30": 27
-    }
-  },
-  {
-    "name": "Aument App",
-    "url": "https://platform.aument.io",
-    "icon": "https://favicons.githubusercontent.com/platform.aument.io",
-    "slug": "aument-app",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.84%",
-    "time": 280,
-    "timeDay": 356,
-    "timeWeek": 215,
-    "timeMonth": 264,
-    "timeYear": 280,
-    "dailyMinutesDown": {
-      "2022-06-30": 114,
-      "2022-06-29": 25,
-      "2022-06-21": 28,
-      "2022-06-16": 33,
-      "2022-04-20": 73
     }
   }
 ]
