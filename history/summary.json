@@ -6,17 +6,16 @@
     "slug": "shopify",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 301,
-    "timeDay": 218,
-    "timeWeek": 215,
-    "timeMonth": 292,
+    "timeDay": 182,
+    "timeWeek": 228,
+    "timeMonth": 293,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2022-09-08": 14,
       "2022-06-21": 16
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 348,
-    "timeDay": 285,
-    "timeWeek": 236,
-    "timeMonth": 249,
-    "timeYear": 348,
+    "time": 347,
+    "timeDay": 234,
+    "timeWeek": 242,
+    "timeMonth": 247,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2022-06-21": 16
     }
