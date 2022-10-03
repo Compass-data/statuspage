@@ -2,7 +2,7 @@
   {
     "name": "Shopify",
     "url": "https://www.shopify.com/",
-    "icon": "https://favicons.githubusercontent.com/www.shopify.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.shopify.com.ico",
     "slug": "shopify",
     "status": "up",
     "uptime": "99.99%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 298,
-    "timeDay": 137,
-    "timeWeek": 306,
-    "timeMonth": 261,
+    "timeDay": 351,
+    "timeWeek": 312,
+    "timeMonth": 265,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2022-06-21": 16
@@ -22,7 +22,7 @@
   {
     "name": "Shopify Accounts",
     "url": "https://accounts.shopify.com/",
-    "icon": "https://favicons.githubusercontent.com/accounts.shopify.com",
+    "icon": "https://icons.duckduckgo.com/ip3/accounts.shopify.com.ico",
     "slug": "shopify-accounts",
     "status": "up",
     "uptime": "99.99%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 340,
-    "timeDay": 180,
-    "timeWeek": 280,
+    "time": 339,
+    "timeDay": 259,
+    "timeWeek": 277,
     "timeMonth": 265,
-    "timeYear": 340,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2022-06-21": 16
     }
