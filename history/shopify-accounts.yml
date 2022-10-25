@@ -1,7 +1,7 @@
 url: https://accounts.shopify.com/
-status: down
-code: 530
-responseTime: 81
-lastUpdated: 2022-10-25T17:08:19.521Z
+status: up
+code: 200
+responseTime: 390
+lastUpdated: 2022-10-25T18:06:45.796Z
 startTime: Tue Mar 08 2022 17:57:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
