@@ -27,18 +27,19 @@
     "url": "https://accounts.shopify.com/",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.shopify.com.ico",
     "slug": "shopify-accounts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 317,
-    "timeDay": 464,
-    "timeWeek": 249,
-    "timeMonth": 256,
+    "timeDay": 340,
+    "timeWeek": 245,
+    "timeMonth": 254,
     "timeYear": 317,
     "dailyMinutesDown": {
+      "2022-12-12": 0,
       "2022-10-25": 58,
       "2022-06-21": 16
     }
