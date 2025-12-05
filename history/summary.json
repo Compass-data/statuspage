@@ -4,7 +4,7 @@
     "url": "https://www.shopify.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.shopify.com.ico",
     "slug": "shopify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 148,
     "timeDay": 93,
-    "timeWeek": 138,
-    "timeMonth": 161,
+    "timeWeek": 132,
+    "timeMonth": 159,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2025-03-12": 56
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.shopify.com.ico",
     "slug": "shopify-accounts",
     "status": "down",
-    "uptime": "43.21%",
+    "uptime": "43.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -36,7 +36,7 @@
     "timeMonth": 72,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2025-12-05": 58,
+      "2025-12-05": 537,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
