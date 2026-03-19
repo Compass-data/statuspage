@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 115,
-    "timeWeek": 121,
-    "timeMonth": 146,
+    "timeDay": 88,
+    "timeWeek": 122,
+    "timeMonth": 142,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2025-12-05": 22
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/accounts.shopify.com.ico",
     "slug": "shopify-accounts",
     "status": "down",
-    "uptime": "40.19%",
+    "uptime": "40.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 75,
-    "timeDay": 57,
+    "time": 74,
+    "timeDay": 48,
     "timeWeek": 60,
     "timeMonth": 71,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2026-03-18": 78,
+      "2026-03-19": 79,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -399,8 +400,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   }
 ]
