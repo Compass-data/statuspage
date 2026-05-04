@@ -1,7 +1,7 @@
 url: https://accounts.shopify.com/
-status: down
-code: 403
-responseTime: 95
-lastUpdated: 2026-05-03T23:39:13.949Z
+status: up
+code: 200
+responseTime: 346
+lastUpdated: 2026-05-04T17:03:53.033Z
 startTime: 2022-03-08T17:57:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
