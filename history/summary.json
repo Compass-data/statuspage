@@ -24,17 +24,17 @@
     "url": "https://accounts.shopify.com/",
     "icon": "https://icons.duckduckgo.com/ip3/accounts.shopify.com.ico",
     "slug": "shopify-accounts",
-    "status": "down",
-    "uptime": "34.94%",
-    "uptimeDay": "32.97%",
+    "status": "up",
+    "uptime": "34.93%",
+    "uptimeDay": "32.98%",
     "uptimeWeek": "48.40%",
     "uptimeMonth": "10.38%",
     "uptimeYear": "1.47%",
     "time": 81,
-    "timeDay": 160,
-    "timeWeek": 193,
-    "timeMonth": 125,
-    "timeYear": 82,
+    "timeDay": 183,
+    "timeWeek": 198,
+    "timeMonth": 129,
+    "timeYear": 83,
     "dailyMinutesDown": {
       "2026-03-22": 1418,
       "2026-03-21": 1440,
@@ -400,7 +400,7 @@
       "2026-11-06": 997,
       "2026-11-07": 223,
       "2026-11-08": 1113,
-      "2026-11-09": 75
+      "2026-11-09": 455
     }
   }
 ]
