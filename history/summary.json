@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 150,
     "timeDay": 114,
-    "timeWeek": 159,
+    "timeWeek": 164,
     "timeMonth": 138,
     "timeYear": 150,
     "dailyMinutesDown": {
@@ -26,13 +26,13 @@
     "slug": "shopify-accounts",
     "status": "down",
     "uptime": "34.98%",
-    "uptimeDay": "72.31%",
-    "uptimeWeek": "57.45%",
+    "uptimeDay": "70.55%",
+    "uptimeWeek": "56.68%",
     "uptimeMonth": "15.01%",
     "uptimeYear": "1.86%",
     "time": 82,
-    "timeDay": 147,
-    "timeWeek": 162,
+    "timeDay": 175,
+    "timeWeek": 154,
     "timeMonth": 134,
     "timeYear": 84,
     "dailyMinutesDown": {
@@ -400,7 +400,7 @@
       "2026-11-08": 1113,
       "2026-11-09": 455,
       "2026-11-10": 399,
-      "2026-11-11": 0
+      "2026-11-11": 78
     }
   }
 ]
