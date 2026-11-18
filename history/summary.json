@@ -26,12 +26,12 @@
     "slug": "shopify-accounts",
     "status": "down",
     "uptime": "34.99%",
-    "uptimeDay": "16.07%",
+    "uptimeDay": "12.18%",
     "uptimeWeek": "38.32%",
     "uptimeMonth": "22.83%",
     "uptimeYear": "2.59%",
     "time": 85,
-    "timeDay": 129,
+    "timeDay": 174,
     "timeWeek": 177,
     "timeMonth": 153,
     "timeYear": 88,
@@ -399,7 +399,7 @@
       "2026-11-14": 623,
       "2026-11-15": 411,
       "2026-11-16": 995,
-      "2026-11-18": 64,
+      "2026-11-18": 133,
       "2026-11-17": 1144
     }
   }
